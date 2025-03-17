@@ -1,0 +1,40 @@
+class Program {
+    int g[100]; 
+    char var[100];
+    char chrulet;
+}
+
+int vvvv[1][2][3];
+int a;
+int lll;
+int aa[5];
+bool k;
+string c[5];
+string v[50];
+char d;
+char n[5];
+int intulet[10];
+int b;
+Program hatz;  
+
+
+function add(int a, int b, int c) : int {
+    a := 5;
+    return a;
+}
+
+
+begin_progr
+    a := 5+1;
+    Print(a);
+    lll:=1;
+    hatz := new Program;
+    add(a, a, a);
+
+    intulet[1] := hatz.g[5];
+    
+    while(a == 5) {
+        b := 5;
+        TypeOf(vvvv);
+    };
+end_progr
