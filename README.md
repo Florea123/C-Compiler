@@ -69,10 +69,10 @@ end_progr
 
 ## Error Reporting
 The compiler provides detailed error messages for syntax and semantic issues, including:
--Type mismatches
--Undeclared variables
--Invalid operations
--Scope violations
+- **Type mismatches**
+- **Undeclared variables**
+- **Invalid operations**
+- **Scope violations**
 
 
 
